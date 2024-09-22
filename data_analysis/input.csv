@@ -1,0 +1,21 @@
+id,name,age,email,subscription_status
+1,John Doe,28,john.doe@email.com,Premium
+2,Jane Smith,35,jane.smith@email.com,Basic
+3,Bob Johnson,42,bob.johnson@email.com,Premium
+4,Alice Brown,31,alice.brown@email.com,Free
+5,Charlie Davis,39,charlie.davis@email.com,Basic
+6,Eva Wilson,25,eva.wilson@email.com,Premium
+7,Frank Miller,47,,Free
+8,Grace Taylor,33,grace.taylor@email.com,Basic
+9,Henry Clark,29,henry.clark@email.com,Premium
+10,Ivy Martin,,ivy.martin@email.com,Free
+11,Jack Thompson,38,jack.thompson@email.com,Basic
+12,Karen White,45,karen.white@email.com,Premium
+13,Liam Harris,27,liam.harris@email.com,Free
+14,Mia Robinson,36,mia.robinson@email.com,Basic
+15,Noah King,41,,Premium
+16,Olivia Scott,30,olivia.scott@email.com,Free
+17,Peter Young,34,peter.young@email.com,Basic
+18,Quinn Adams,26,quinn.adams@email.com,Premium
+19,Rachel Baker,43,rachel.baker@email.com,Free
+20,Samuel Carter,32,samuel.carter@email.com,Basic
