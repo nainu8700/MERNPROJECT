@@ -1,6 +1,9 @@
 # MERN Stack Project with Docker
 
-This project is a full-stack application using the MERN (MongoDB, Express.js, React, Node.js) stack, containerized with Docker.
+This project is a full-stack application using the MERN (MongoDB, Express.js, React, Node.js) stack, containerized with Docker compose.
+
+
+![Project Page](./screenshot.png)
 
 ## Project Structure
 
